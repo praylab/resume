@@ -8,3 +8,6 @@ Currently, I am doing my Master's in [Hydraulic Engineering](https://www.tudelft
 
 ## Research Interest 
 I am passionate in the Coastal Engineering field, including data-driven shoreline change projection and mangrove restoration. 
+
+### Mangrove Restoration 
+I will do an internship to test how the surface area of a mangrove can affect the high wave impact (in extreme conditions). It similar to do a failure test with a "grey structure" but instead using green structure. 
